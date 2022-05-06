@@ -1,3 +1,10 @@
+# Snyk Demo
+
+This repo is used for testing of snyk.
+
+[![Known Vulnerabilities](https://snyk.io/test/github/ZhihengZhouCS/snyk-demo/badge.svg)](https://snyk.io/test/github/ZhihengZhouCS/snyk-demo)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
